@@ -18,7 +18,7 @@
 # vendor/
 
 # Config File
-config.json
+config.yaml
 
 # Go workspace file
 go.work
